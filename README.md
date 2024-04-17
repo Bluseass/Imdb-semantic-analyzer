@@ -43,9 +43,9 @@ After running the code, an interactive widget will be displayed where you can in
 
 ## Code Structure
 
-- `transformer_model.py`: Defines the Transformer model architecture.
-- `train.py`: Script for training the model on the IMDb dataset.
-- `text_analysis_widget.py`: Contains the code for the interactive text analysis widget.
+- `transformer_model`: Defines the Transformer model architecture.
+- `train`: Script for training the model on the IMDb dataset.
+- `text_analysis_widget`: Contains the code for the interactive text analysis widget.
 
 ## Acknowledgments
 
